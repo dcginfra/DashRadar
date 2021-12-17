@@ -988,11 +988,6 @@
     "tree-kill" "1.2.2"
     "webpack-sources" "1.4.3"
 
-"@nguniversal/aspnetcore-engine@^8.1.1":
-  "integrity" "sha512-TiXaFKsa2l+Cy7U4UsShijsVWS8afatbKsv/ACETC5DAyxJh2pR9xPDKU0RCWL0iV1qni8EYkCNUn+b6MKSyYw=="
-  "resolved" "https://registry.npmjs.org/@nguniversal/aspnetcore-engine/-/aspnetcore-engine-8.1.1.tgz"
-  "version" "8.1.1"
-
 "@nguniversal/common@^8.1.1":
   "integrity" "sha512-w5S03Blmde0kjYh5xxrUeJZGeCZ2w5jJK0jGNxKWnxCyIsOTY5N8+vqU+oK1Na1RQXCcE2XpMKmgYeybwp1IzA=="
   "resolved" "https://registry.npmjs.org/@nguniversal/common/-/common-8.1.1.tgz"
